@@ -1,3 +1,32 @@
 page-home {
+    h3 {
+        text-align: center;
+        color:darkcyan;
+    }
 
+    img {
+        width: 200px;
+        align-self: center;
+        margin: auto;
+        display: block;
+        padding: 10px;
+    }
+
+    #rounded {
+        width: 100%;
+        height: 30px;
+        -moz-border-radius: 50px;
+        -webkit-border-radius: 50px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        color:teal;
+    }
+
+    #entrar {
+        background:teal;
+    }
+
+    #registrar {
+        background-image: url(https://us.123rf.com/450wm/kilroy79/kilroy791610/kilroy79161000035/63530662-pet-paws-colorful-on-black-seamless-pattern-background-.jpg?ver=6)
+    }
 }
